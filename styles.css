@@ -1,0 +1,41 @@
+#Top {
+  font-weight: bold;
+  color:red
+}
+
+body {
+	background-color: lightblue;
+	margin: 30px;
+	text-aligh: left;
+	font-family: calibri,sans-serif;
+	font-size: 20px;
+
+}
+
+table {
+   border: 2px solid black;
+   border-collapse: collapse;		
+   text-align: center;
+   padding: 20px;
+}
+
+th{
+
+	border: 1px solid black;
+	background-color: grey;
+}
+
+td{
+	color:black;
+	text-align: center;
+	width: 20%;
+	border: 1px solid black;
+
+  }	
+
+
+.name {
+  font-weight: bold;
+  color:red
+}
+
